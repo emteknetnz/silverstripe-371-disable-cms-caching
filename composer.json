@@ -1,5 +1,5 @@
 {
-  "name": "emteknetnz/silverstripe-disable-cms-caching",
+  "name": "emteknetnz/silverstripe-371-disable-cms-caching",
   "description": "Disable CMS caching in silverstripe 3.7.1",
   "type": "silverstripe-module",
   "keywords": ["silverstripe"],

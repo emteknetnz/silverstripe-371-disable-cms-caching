@@ -1,0 +1,16 @@
+{
+  "name": "emteknetnz/silverstripe-disable-cms-caching",
+  "description": "Disable CMS caching in silverstripe 3.7.1",
+  "type": "silverstripe-module",
+  "keywords": ["silverstripe"],
+  "require": {
+    "silverstripe/framework": "3.7.0 || 3.7.1"
+  },
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Steve Boyd",
+      "email": "emteknetnz@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+---
+Name: disablecmscachingconfig
+---
+LeftAndMain:
+  extensions:
+    - DisableCMSCachingExtension
